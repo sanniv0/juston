@@ -20,34 +20,35 @@
 
 ## 👨‍💻 `whoami`
 
-```typescript
-class Sanniv implements FullStackDeveloper {
-  readonly name = "Sanniv";
-  readonly title = "Full Stack Developer & UI/UX Designer";
-  readonly location = "India";
-  readonly availability = "Open to exciting opportunities";
+```js
+// Developer Profile
+const sanniv = {
+  name: "Sanniv",
+  title: "Full Stack Developer & UI/UX Designer",
+  location: "India",
+  availability: "Open to exciting opportunities",
   
-  readonly skills = {
+  skills: {
     frontend: ["JavaScript", "TypeScript", "React", "UI/UX Design"],
     backend: ["Node.js", "Python", "Java", "RESTful APIs"],
     tools: ["Git", "Docker", "VS Code", "Cloud Services", "CI/CD"]
-  };
+  },
   
-  readonly passions = [
+  passions: [
     "Building intuitive user experiences",
     "Solving complex technical challenges",
     "Learning emerging technologies",
     "System architecture & design"
-  ];
+  ],
   
-  readonly achievements = [
+  achievements: [
     "SIH Participant",
     "Created innovative web applications",
     "Optimized application performance"
-  ];
+  ],
   
-  contactMe(): Promise<Collaboration> {
-    return connect("https://linkedin.com/in/sanniv0");
+  contactMe: function() {
+    return "https://linkedin.com/in/sanniv0";
   }
 }
 ```
