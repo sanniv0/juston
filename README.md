@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=80&lines=Hi%2C+I'm+Sanniv+%F0%9F%91%8B;Inventor+%7C+Full+Stack+Polymath+%7C+Systems+Alchemist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=80&lines=Inventor+%7C+Systems+Alchemist+%7C+Sanniv" alt="Typing SVG" />
   <br/>
   <img src="https://raw.githubusercontent.com/sanniv0/sanniv0/main/assets/animated-orb.gif" width="120"/>
 </div>
@@ -7,21 +7,21 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Invented%20My%20Own%20Framework-FF6F61?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Co-Pilot%20Builder-6A0572?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quantum%20Ready-00B4D8?style=for-the-badge&logo=quantconnect&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design%20System%20Architect-FFD166?style=for-the-badge&logo=figma&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Invented%20a%20Micro-Framework-FF6F61?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Workflow%20Automator-6A0572?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quantum%20Sim%20Builder-00B4D8?style=for-the-badge&logo=quantconnect&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design%20System%20Creator-FFD166?style=for-the-badge&logo=figma&logoColor=black"/>
 </div>
 
 ---
 
-## 🧬 My DNA (Not Just a Developer)
+## 🧬 My DNA (Beyond the Resume)
 
 ```yaml
 identity:
   name: Sanniv
   archetype: "Inventor, Builder, Storyteller"
-  location: "Earth, but mostly in the Cloud"
+  location: "Kolkata, but mostly in the Cloud"
   mission: "To engineer the impossible and make it beautiful"
   rare_traits:
     - "Invented a micro-framework used by 10+ startups"
@@ -81,7 +81,7 @@ flowchart TD
 
 ---
 
-## 🛠️ My Stack (But Not the Usual List)
+## 🛠️ My Stack (Not the Usual List)
 
 ```json
 {
