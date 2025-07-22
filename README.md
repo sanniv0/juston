@@ -28,41 +28,67 @@ I'm Sanniv, a digital architect from Kolkata who transforms complex problems int
 
 ## 🧠 The Mind Behind the Code
 
-```javascript
-class SannivMindset {
-  constructor() {
-    this.currentFascination = "The intersection of AI and human creativity";
-    this.approachToProblems = "First principles thinking";
-    this.workPhilosophy = "Build once, build right, build for humans";
-    
-    // The questions that drive me
-    this.dailyQuestions = [
-      "How can this be more intuitive?",
-      "What if we approached this differently?",
-      "How will this impact the people who use it?",
-      "Is there a more elegant solution?"
-    ];
-  }
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6366F1&center=true&vCenter=true&repeat=false&width=435&lines=class+SannivMindset+%7B" alt="Class Declaration" />
+</div>
+
+<div align="center">
+  <table border="0" width="90%" style="background-color: #0D1117; border-radius: 10px; overflow: hidden;">
+    <tr>
+      <td>
+        <pre style="background-color: #0D1117; border-radius: 10px; padding: 20px; color: #E0E0E0; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.5;">
+<span style="color: #FF79C6;">constructor</span>() {  
+  <span style="color: #BD93F9;">this</span>.<span style="color: #50FA7B;">currentFascination</span> = <span style="color: #F1FA8C;">"The intersection of AI and human creativity"</span>;
+  <span style="color: #BD93F9;">this</span>.<span style="color: #50FA7B;">approachToProblems</span> = <span style="color: #F1FA8C;">"First principles thinking"</span>;
+  <span style="color: #BD93F9;">this</span>.<span style="color: #50FA7B;">workPhilosophy</span> = <span style="color: #F1FA8C;">"Build once, build right, build for humans"</span>;
   
-  solveChallenge(problem) {
-    return problem
-      .breakIntoFirstPrinciples()
-      .removeAssumptions()
-      .exploreUnconventionalApproaches()
-      .synthesizeSolution()
-      .optimizeForHumans();
-  }
-  
-  getInspiration() {
-    // Sources that keep me thinking differently
-    return [
-      "Nature's elegant solutions",
-      "Cross-disciplinary concepts",
-      "The unexpected connections between disparate fields",
-      "The subtle details in everyday experiences"
-    ];
-  }
+  <span style="color: #6272A4;">// The questions that drive me</span>
+  <span style="color: #BD93F9;">this</span>.<span style="color: #50FA7B;">dailyQuestions</span> = [
+    <span style="color: #F1FA8C;">"How can this be more intuitive?"</span>,
+    <span style="color: #F1FA8C;">"What if we approached this differently?"</span>,
+    <span style="color: #F1FA8C;">"How will this impact the people who use it?"</span>,
+    <span style="color: #F1FA8C;">"Is there a more elegant solution?"</span>
+  ];
 }
+
+<span style="color: #FF79C6;">solveChallenge</span>(<span style="color: #FFB86C;">problem</span>) {
+  <span style="color: #FF79C6;">return</span> problem
+    .<span style="color: #50FA7B;">breakIntoFirstPrinciples</span>()
+    .<span style="color: #50FA7B;">removeAssumptions</span>()
+    .<span style="color: #50FA7B;">exploreUnconventionalApproaches</span>()
+    .<span style="color: #50FA7B;">synthesizeSolution</span>()
+    .<span style="color: #50FA7B;">optimizeForHumans</span>();
+}
+
+<span style="color: #FF79C6;">getInspiration</span>() {
+  <span style="color: #6272A4;">// Sources that keep me thinking differently</span>
+  <span style="color: #FF79C6;">return</span> [
+    <span style="color: #F1FA8C;">"Nature's elegant solutions"</span>,
+    <span style="color: #F1FA8C;">"Cross-disciplinary concepts"</span>,
+    <span style="color: #F1FA8C;">"The unexpected connections between disparate fields"</span>,
+    <span style="color: #F1FA8C;">"The subtle details in everyday experiences"</span>
+  ];
+}
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6366F1&center=true&vCenter=true&repeat=false&width=435&lines=%7D+%2F%2F+End+of+class" alt="Class End" />
+</div>
+
+<div align="center">
+  <details>
+    <summary><b>🔄 Run this code in your mind</b></summary>
+    <div align="left" style="padding: 15px;">
+      <p>When you run this code in your mind, you're not just reading a class definition—you're experiencing my approach to problem-solving and creation. The <code>solveChallenge()</code> method represents my actual workflow, breaking down complex problems into their fundamental components before building them back up into elegant solutions.</p>
+      <p>The <code>getInspiration()</code> method reveals where I find my most innovative ideas—at the intersection of different disciplines and in the subtle details that others might overlook.</p>
+      <p>This isn't just a representation of how I code—it's how I think.</p>
+    </div>
+  </details>
+</div>
 ```
 
 ## 🎨 Digital Canvas: My Technical Palette
